@@ -1,6 +1,9 @@
 # coding_with_ai
 Files and Examples for Coding with AI presentation
 
+## Slides
+https://docs.google.com/presentation/d/18PtZFFErGYpizT-1sPPhF5qSYtSBJtbIQY1LXO2nzwc
+
 ## Approaches
 - Web Search With AI
 - AI Application
